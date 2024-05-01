@@ -1,1 +1,1 @@
-This is a Repo for Demo purpuses !
+This is a Repo for Demo purposes !!!
